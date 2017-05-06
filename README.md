@@ -1,3 +1,3 @@
 # CS-350-Web-Dev
-Assignments and projects for CS350
- Web Dev
+Carpooling service for students to share rides 
+Web App
